@@ -1,0 +1,163 @@
+.TopContainer{
+    background-color: rgba(255, 255, 255, 0.315);
+    width: 99vw;
+    height: 50vw;
+    border: 1px solid rgb(221, 221, 221);
+    padding: 5px;
+    display: flex;
+    flex-direction: row;   
+    justify-content: space-around;
+    align-items: flex-end;
+    
+}
+.Mainwebsite{
+    display: flex;
+    align-items: flex-end;
+}
+.Image {
+    background-color: rgb(231, 231, 231);
+    width: 50vw;
+    height: 100vh;
+    padding: 50px;
+    margin: 0px;
+}
+.card{
+    margin: 70px;
+}
+.TextContainer{
+    background-color: rgb(255, 255, 255);
+    width: 50vw;
+    height: 100vh;
+}
+
+.Headname{
+    padding: 0px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+.Aboutme{
+    border: 2px;
+    background-color: white;
+    padding: 2px;
+}
+.Allpongnan{
+    display: flex;
+    flex-direction: column;
+}
+.firstpongnan{
+    background-color: white;
+    width: 100vw;
+    height: 50vh;
+}
+.Secondpongnan{
+    background-color: rgb(255, 255, 255);
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+}
+.Halfsecpon{
+    background-color: rgb(231, 231, 231);
+    width: 50vw;
+    /* height: 50vh; */
+}
+.Thirdpongnan{
+    background-color: rgb(231, 231, 231);
+    width: 100vw;
+    height: 50vh;
+    
+}
+.Halfthirdpon{
+    background-color: rgb(255, 255, 255);
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    flex-direction: row ;
+}
+.Fourthpongnan{
+    background-color: rgb(255, 255, 255);
+    width: 50vw;
+    height: 50vh;
+}
+.Halffourthpon{
+    background-color: rgb(231, 231, 231);
+    width: 50vw;
+    height: 50vh;
+}
+
+.ButtonControl{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+.Lastword{
+    padding: 50px;
+    margin: 50px;
+}
+.LastwordHead{
+    margin: 50px;
+    padding: 0px;
+}
+.sectext{   
+    padding: 0px;
+    margin: 0px;
+}
+.headsectext{
+    padding-bottom: 0px;
+    padding: 50px;
+    margin: 0px;
+    margin-bottom: 0px;
+}
+.bodysectext{
+    padding: 50px;
+    margin: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.thirdtext{
+    padding: 0px;
+    margin: 0px;
+    width: 50vw;
+}
+.headthirdtext{
+    padding: 50px;
+    padding-bottom: 20px;
+    margin: 0px;
+}
+.bodythirdtext{
+    padding: 50px;
+    margin: 0px;
+    padding-top: 0px;
+}
+.ButtonControl2{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+}
+.Myphoto{
+    padding: 0px;
+    margin: 0px;
+    padding-top: 20px;
+}
+.PonContainer{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: auto;
+}
+.nextGen{
+    width: 50vw;
+    height: auto;
+}
+.NGimg{
+    width: 100%;
+    height: 100%;
+}
+.UTCCimg{
+    width: 50vw;
+    height: auto;
+}
+.UTCC{
+    width: 100%;
+    height: 100%;
+}
